@@ -1,1 +1,3 @@
 # Automation_repo
+
+Hi, My name is Meena Kasbekar, I am a Software QA Engineer with three years of experience in manual testing, along with some exposure to automation testing. I completed my Bachelor of Engineering (BE) degree in Electronics and Telecommunication in 2021. I am here as I'm currently focused on learning Automation Testing to enhance my technical skills, advance my career, and open up better opportunities in the Automation testing field.
